@@ -1,0 +1,1 @@
+import{d as n,h as s,C as l,b as c,o as r}from"./framework.9fd5685d.js";const i=n({__name:"ActiveText",setup(m){const e=s(!1);return(p,t)=>{const o=l("c-switch");return r(),c(o,{modelValue:e.value,"onUpdate:modelValue":t[0]||(t[0]=a=>e.value=a),activeText:"ON",inactiveText:"OFF"},null,8,["modelValue"])}}});export{i as default};

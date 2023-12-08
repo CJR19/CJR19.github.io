@@ -1,0 +1,1 @@
+import{d as n,h as t,C as s,b as r,o as p}from"./framework.9fd5685d.js";const d=n({__name:"Clearable",setup(u){const e=t("");return(c,o)=>{const a=s("c-input");return p(),r(a,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=l=>e.value=l),clearable:"",placeholder:"密码文本框，可以切换",showPassword:""},null,8,["modelValue"])}}});export{d as default};

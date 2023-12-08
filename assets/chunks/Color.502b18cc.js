@@ -1,0 +1,1 @@
+import{_ as e,c,o as s,k as o}from"./framework.9fd5685d.js";const t={},_={class:"md-color-brand"},n=o("div",{style:{background:"var(--c)"}},"123",-1),r=o("div",{style:{background:"var(--c)"}},"123",-1),a=o("div",{style:{background:"var(--c)"}},"123",-1),d=[n,r,a];function i(l,v){return s(),c("div",_,d)}const f=e(t,[["render",i]]);export{f as default};

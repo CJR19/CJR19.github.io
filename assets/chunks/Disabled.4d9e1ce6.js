@@ -1,0 +1,1 @@
+import{d as l,h as s,C as t,b as p,o as r}from"./framework.9fd5685d.js";const c=l({__name:"Disabled",setup(u){const e=s("");return(d,o)=>{const a=t("c-input");return r(),p(a,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=n=>e.value=n),disabled:"",placeholder:"基础文本框，请输入"},null,8,["modelValue"])}}});export{c as default};

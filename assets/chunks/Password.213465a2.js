@@ -1,0 +1,1 @@
+import{d as t,h as a,C as l,b as r,o as p}from"./framework.9fd5685d.js";const m=t({__name:"Password",setup(u){const e=a("");return(c,o)=>{const n=l("c-input");return p(),r(n,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=s=>e.value=s),placeholder:"密码文本框，可以切换",showPassword:""},null,8,["modelValue"])}}});export{m as default};

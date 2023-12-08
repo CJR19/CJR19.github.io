@@ -1,0 +1,1 @@
+import{d as a,h as t,ar as o,a2 as c,c as _,a as i,o as n,_ as r}from"./framework.9fd5685d.js";const d={class:"md-demo-loading shadow-2"},l=a({__name:"Basic",setup(p){const e=t(!0);return setTimeout(()=>{e.value=!1},3e3),(v,u)=>{const s=o("loading");return c((n(),_("div",d,[i(" 加载演示 ")])),[[s,e.value]])}}});const m=r(l,[["__scopeId","data-v-c38f0270"]]);export{m as default};

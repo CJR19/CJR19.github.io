@@ -1,0 +1,1 @@
+import{_ as t,C as o,b as c,w as s,o as a,a as r}from"./framework.9fd5685d.js";const n={};function l(_,f){const e=o("c-alert");return a(),c(e,{type:"success",closable:!1},{default:s(()=>[r("without close")]),_:1})}const u=t(n,[["render",l]]);export{u as default};

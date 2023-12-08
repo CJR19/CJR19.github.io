@@ -1,0 +1,1 @@
+import{_ as t,c as a,F as o,D as n,o as e,k as r,t as d,n as c}from"./framework.9fd5685d.js";const _={},l={class:"md-shadows"};function i(h,m){return e(),a("div",l,[(e(),a(o,null,n(24,s=>r("div",{class:c(["shadow-box","shadow-"+s]),key:`a-${s}`}," .shadow-"+d(s),3)),64))])}const f=t(_,[["render",i]]);export{f as default};

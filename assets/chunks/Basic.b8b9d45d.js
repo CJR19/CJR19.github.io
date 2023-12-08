@@ -1,0 +1,1 @@
+import{d as a,h as n,C as l,b as c,o as r}from"./framework.9fd5685d.js";const _=a({__name:"Basic",setup(m){const e=n(!1);return(p,o)=>{const t=l("c-switch");return r(),c(t,{modelValue:e.value,"onUpdate:modelValue":o[0]||(o[0]=s=>e.value=s)},null,8,["modelValue"])}}});export{_ as default};
